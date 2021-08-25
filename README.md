@@ -4,7 +4,14 @@
 
 In the project directory, you can run:
 
+### [Live Site](https://covid-tracker-application.netlify.app/)
+
 ### `npm start`
+
+## NOTES
+
+-Tracks Covid-19 Stats around the world.
+-Presents the stats geographically.
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
